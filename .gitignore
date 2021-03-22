@@ -1,4 +1,4 @@
-/bin
+bin/
 .tmp
 .log
-/Debug
+Debug/
