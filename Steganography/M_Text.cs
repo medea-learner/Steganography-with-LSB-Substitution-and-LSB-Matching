@@ -384,7 +384,7 @@ namespace Steganography
             {
                 if (main.english)
                 {
-                    MessageBox.Show("This image doesn't contains message!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("This image doesn't contain any message!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
                 else
                 {
@@ -398,7 +398,7 @@ namespace Steganography
             {
                 if (main.english)
                 {
-                    MessageBox.Show("This image doesn't contains message!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("This image doesn't contain any message!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
                 else
                 {
