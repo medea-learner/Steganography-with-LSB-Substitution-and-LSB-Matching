@@ -27,7 +27,7 @@ namespace Steganography
                 }
                 else
                 {
-                    MessageBox.Show("Votre message a une taille plus grande que celle peut insérer dans l'image!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("Votre message a une taille plus grande que celle qui peut être tenue dans l'image!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
                 return null;
             }

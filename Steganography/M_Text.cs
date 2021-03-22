@@ -24,7 +24,7 @@ namespace Steganography
                 }
                 else
                 {
-                    MessageBox.Show("Ce message est de grand taille veuillez avec un autre de taille plus petite!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("Ce message est de grand taille veuillez essayer avec un autre de taille plus petite!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
                 
             }
